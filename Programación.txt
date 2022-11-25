@@ -1,34 +1,34 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/dracohe/CARLOS/master/guide_IPTV.xml"
 
-#EXTINF:-1 tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="GOL MUNDIAL HD" tvg-logo="https://i.postimg.cc/3ryZ9n8G/golmundial.png" ,Gol Mundial
 
-#EXTINF:-1 tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M+ LaLiga
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="M+ LaLiga HD" tvg-logo="https://i.ibb.co/jVMhMQQ/Liga-Santander.jpg" ,M+ LaLiga
 
-#EXTINF:-1 tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga Campeones
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="M+LCAMPEONES" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" ,M+ Liga Campeones
 
-#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="DAZN F1 HD" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" ,DAZN F1
 
-#EXTINF:-1 tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="M+ #VAMOSHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" ,#Vamos
 
-#EXTINF:-1 tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="M+DEPORTESHD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" ,M+ Deportes
 
-#EXTINF:-1 tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ Deportes 2
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="M+DEPORTES2HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" ,M+ Deportes 2
 
-#EXTINF:-1 tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png", M+ Deportes 3
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="M+DEPORTES3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png", M+ Deportes 3
 
-#EXTINF:-1 tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="M+ GOLF HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-golf-368.png" ,M+ Golf
 
-#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1
 
-#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="DAZN 2" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-2-es-2511.png" ,DAZN 2
 
-#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="DAZN 3" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-3-es-2524.png" ,DAZN 3
 
-#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="DAZN 4" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" ,DAZN 4
 
-#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,LaLiga Smartbank
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="LaLiga SmartbankTV" tvg-logo="https://i.ibb.co/cybDs0J/La-Liga-Smart-Bank.jpg" ,LaLiga Smartbank
 
-#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,EUROSPORT 1
+#EXTINF:-1 group-title="PROGRAMACION" tvg-id="EUROSPORT1HD" tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" ,EUROSPORT 1
 
 
 #EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" ,EUROSPORT 2
